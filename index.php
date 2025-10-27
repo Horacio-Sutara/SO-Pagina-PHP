@@ -18,6 +18,9 @@
             <li>Ramón Horacio Sutara</li>
         </ul>
         <hr>
+        <a href="debian-13.1.0-amd64-DVD-1.iso" download>
+            <button>Descargar ISO de Debian</button>
+        </a>
         <p><strong>Hora actual del servidor:</strong> <?php echo date("H:i:s"); ?></p>
     </div>
 </body>
